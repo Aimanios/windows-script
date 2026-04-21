@@ -49,7 +49,7 @@ case $choice in
     4)
         # Windows 10
         img_file="windows10.img"
-        iso_link="https://archive.org/download/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f_202301/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso"
+        iso_link="https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x64v1.iso?t=902edbb1-2f26-4bda-950f-64cc818f896f&P1=1776892151&P2=601&P3=2&P4=RhKv7sE9ZUmLOJhinOgY4nE4lbHqSkj3CGmABOcjma5SqZifn9MUnZ87D77xeivphd%2f7hEGfkVL62vii%2bVoAr1o8kTX7k%2bq9zxDgIxBJWFz3TtHk06t1g89uRfG6r2WHwDNsHfjX%2bujLrdjFGvgFBQVGYd%2b%2bmVjU%2fqCGRrP1WpNhfADfCi25DlvxeLbiO3Xj%2f73C2rl5UDxhcGmtAxLreQsC3XLCsKAnGVUdVPuwYm8seYq%2f2xSM06EikONIC8DHWJrpqOCjKJWemxyPHtiKbYzOX0lq4hcqTwTH7WR%2f%2fJByoqL5DIqNW2N4RYOgRYjjpQcou%2b8Jt4u%2bGPbKQBZmIw%3d%3d"
         iso_file="windows10.iso"
         ;;
     5)
