@@ -55,7 +55,7 @@ case $choice in
     5)
         # Windows 11
         img_file="windows11.img"
-        iso_link="http://152.53.194.161/WIN11.ISO"
+        iso_link="https://fafda.to/d/pj97mvcpou4e?v=Hm0SNUnoQJ8cQ4jYTyk7MCCst3Ik7FBBsCTcGnhkwESdnFCH5Wl-X1XADijzyOblKJCs_3X6rYZGjXGdWFQemodn0S1lRaOHRBlI7SkPjow1xdkfAzOijlUnu1jz1v-zlslBTSb1r0-_YMiRyOXxh4fMI34LlSZitLPZ36Dmy9yppWaIGMQAtBceFuPLwrWHbhdZYtLW2jChxfHoMe1FN0lbBugLIT6IRmjc8MfBwxm3DloFQxbwHRKIx53t3PryoUuwnrMBkJE"
         iso_file="windows11.iso"
         ;;
     6)
